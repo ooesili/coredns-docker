@@ -1,4 +1,4 @@
-module gitlab.com/ooesili/coredns-docker
+module github.com/ooesili/coredns-docker
 
 go 1.14
 
